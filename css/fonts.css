@@ -1,0 +1,42 @@
+/* ===================================================================
+ * fonts.scss)
+ *
+ * ------------------------------------------------------------------- */
+ 
+/*
+ * Libre Baskerville 
+================================================================================ */
+@font-face {
+  font-family: "librebaskerville-regular";
+  src: url("https://fonts.googleapis.com/css?family=Roboto:400");
+  font-style: normal;
+  font-weight: normal;
+}
+@font-face {
+  font-family: "librebaskerville-italic";
+  src: url("https://fonts.googleapis.com/css?family=Roboto:400i");
+  font-style: normal;
+  font-weight: normal;
+}
+@font-face {
+  font-family: "librebaskerville-bold";
+  src: url("https://fonts.googleapis.com/css?family=Roboto:700");
+  font-style: normal;
+  font-weight: normal;
+}
+
+/*
+ * Montserrat
+================================================================================ */
+@font-face {
+  font-family: "montserrat-regular";
+  src: url("https://fonts.googleapis.com/css?family=Montserrat");
+  font-style: normal;
+  font-weight: normal;
+}
+@font-face {
+  font-family: "montserrat-bold";
+  src: url("https://fonts.googleapis.com/css?family=Montserrat:700");
+  font-style: normal;
+  font-weight: normal;
+}
