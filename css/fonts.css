@@ -8,19 +8,19 @@
 ================================================================================ */
 @font-face {
   font-family: "librebaskerville-regular";
-  src: url("https://fonts.googleapis.com/css?family=Roboto:400");
+  src: url("../fonts/og/7789.ttf");
   font-style: normal;
   font-weight: normal;
 }
 @font-face {
   font-family: "librebaskerville-italic";
-  src: url("https://fonts.googleapis.com/css?family=Roboto:400i");
+  src: url("../fonts/og/7789.ttf");
   font-style: normal;
   font-weight: normal;
 }
 @font-face {
   font-family: "librebaskerville-bold";
-  src: url("https://fonts.googleapis.com/css?family=Roboto:700");
+  src: url("../fonts/og/7789.ttf");
   font-style: normal;
   font-weight: normal;
 }
@@ -30,13 +30,13 @@
 ================================================================================ */
 @font-face {
   font-family: "montserrat-regular";
-  src: url("https://fonts.googleapis.com/css?family=Montserrat");
+  src: url("../fonts/og/7789.ttf");
   font-style: normal;
   font-weight: normal;
 }
 @font-face {
   font-family: "montserrat-bold";
-  src: url("https://fonts.googleapis.com/css?family=Montserrat:700");
+  src: url("../fonts/og/7789.ttf");
   font-style: normal;
   font-weight: normal;
 }
