@@ -411,8 +411,8 @@
 		ssFitVids();
 		ssMasonryFolio();
 		ssLightGallery();
-		ssFlexSlider();
-		ssOwlCarousel();
+//		ssFlexSlider();
+//		ssOwlCarousel();
 		ssMenuOnScrolldown();
 		ssOffCanvas();
 		ssSmoothScroll();
